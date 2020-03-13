@@ -1,5 +1,4 @@
-# cars-info-vis
-Visualization for http://archive.ics.uci.edu/ml/datasets/Automobile
+# Visualization for http://archive.ics.uci.edu/ml/datasets/Automobile
 
 * HighCharts.js
 * jQuery
